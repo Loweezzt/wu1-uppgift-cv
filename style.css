@@ -1,0 +1,33 @@
+.header {
+    padding: 25px;
+    text-align: left;
+    background: #1abc9c;
+    color: rgb(255, 243, 189);
+    font-size: 20px
+    
+    
+}
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-color: #149278;
+}
+
+.top-right-image {
+    float:right;
+    width: 18rem;
+}
+
+h2 {
+    margin-left: 25px;
+    color: rgb(255, 243, 189)
+
+}
+p {
+    margin-left: 25px;
+    color: rgb(255, 243, 189)
+}
+a {
+    color: rgb(255, 243, 189)
+}
