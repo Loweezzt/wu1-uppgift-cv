@@ -2,7 +2,7 @@
     padding: 25px;
     text-align: left;
     background: #1abc9c;
-    color: rgb(255, 243, 189);
+    color: rgb(255, 255, 255);
     font-size: 20px
     
     
@@ -17,7 +17,7 @@ body {
 
 h2 {
     margin-left: 25px;
-    color: rgb(255, 243, 189)
+    color: rgb(255, 255, 255)
 
 }
 p {
