@@ -1,23 +1,21 @@
 .header {
     padding: 25px;
     text-align: left;
-    background: #1abc9c;
-    color: rgb(255, 255, 255);
+    background: linear-gradient(#149278 1px, #0e7265 );
+    color: rgba(211, 218, 150, 0.929);
     font-size: 20px
-    
-    
 }
 body {
     margin: 0;
     padding: 0;
     height: 100vh;
-    background-color: #149278;
+    background: linear-gradient(#0e7265 500px, #149278 );
 }
 
 
 h2 {
     margin-left: 25px;
-    color: rgb(255, 255, 255)
+    color: rgb(211, 218, 150, 0.929)
 
 }
 p {
@@ -41,7 +39,7 @@ a {
     position: fixed;
     top: 0;
     right: 0;
-    background-color: #0e7265;
+    background-color: #000000;
     padding-top: 20px;
 }
 
@@ -49,8 +47,9 @@ a {
     padding: 15px 25px;
     text-decoration: none;
     font-size: 18px;
-    color: white;
+    color: 99, 46, 0;
     display: block;
+    
 }
 
 .main-content {
@@ -65,13 +64,13 @@ h1 {
 
 p {
     margin-bottom: 20px;
-    line-height: 1.6;
+    line-height: 1.5;
     font-size: 18px;
 }
 
 .top-right-image {
     position: absolute;
-    top: 5px;    
-    right: 250px;
-    width: 200px;
+    right: 170px;
+    width: 1150px;
+    top: 32px;
 }

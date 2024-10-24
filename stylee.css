@@ -1,0 +1,40 @@
+
+  body {
+    font-family: var(--font-body);
+    font-size: 1.2rem;
+  }
+  h1 {
+    font-size: 2.5rem;
+  }
+  h2 {
+    font-size: 2rem;
+  }
+  h3 {
+    font-size: 1rem;
+  }
+  article {
+    max-width: 1rem;
+    margin-inline: auto;
+  }
+  .brand {
+    color: rgb(99, 46, 0);
+    background-color: black;
+    padding: 0.4rem;
+  }
+  .with-sidebar {
+    text-align: auto
+  }
+  
+  .sidebar {
+    margin-inline-start: auto;
+    text-align: auto;
+  }
+  
+  .not-sidebar {
+    text-align: center
+  }
+  .top-right-image {
+    float: right;
+    max-width: 100px;
+    max-height: 100px;
+}
